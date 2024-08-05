@@ -1,0 +1,100 @@
+
+body {
+font-family: Electrolize;
+/*background-image: URL( 'photo/9.jpg');*/
+background-repeat: no-repeat;
+background-size:2000px 1000px;
+color: #000000; 
+background-color: #fff; 
+
+
+}
+
+.container {
+max-width: 2000px;
+margin-top: 80px;
+margin-bottom: 80px;
+margin-right: 50px;
+margin-left: 50px;
+padding:100px;
+background-color: #fff;
+border-radius: 10px;
+border: 3px solid #000000;
+box-shadow: 10px 5px 5px red;
+
+}
+
+.container h1 {
+text-align: center;
+}
+
+.container input[type="text"],
+.container input[type="email"],
+.container input[type="password"],
+.container input[type="submit"] {
+width: 100%;
+padding: 10px;
+margin-bottom: 10px;
+border: 3px solid #000000;
+border-radius: 4px;
+box-sizing: border-box;
+font-family: Electrolize;
+}
+
+.container input[type="submit"] {
+background-color: #85060e;
+color: #fff;
+cursor: pointer;
+}
+
+.container input[type="submit"]:hover {
+background-color: #d37979;
+}
+
+a:link {
+color: #ff2727;
+background-color: transparent;
+text-decoration: none;
+}
+
+.container0 {
+max-width: 100%;
+margin-top: 10px;
+/*margin-top: 80px;
+margin-bottom: 100px;
+margin-right: 90px;
+margin-left: 10px;*/
+border: 3px solid #000000;
+padding: 150px;
+border-radius: 10px;
+/* box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); */
+box-shadow: 10px 5px 5px red;
+
+
+}
+th, td {
+border: 2px solid;
+}
+
+table {
+width: 100%;
+text-align: lift;
+}
+
+
+.container img {
+margin-top: -150px; /* Adjust the value as needed */
+}
+
+.container input[type="submit"] {
+  background-color: #CE121D;
+  color: #fff;
+  border-radius: 30px;
+  cursor: pointer;
+}
+
+.container input[type="submit"]:hover {
+  background-color: #000000;
+}
+
+
